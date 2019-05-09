@@ -1,0 +1,7 @@
+
+*.rdx
+*.RData
+*.rdb
+.Rhistory
+.DS_Store
+rsconnect
