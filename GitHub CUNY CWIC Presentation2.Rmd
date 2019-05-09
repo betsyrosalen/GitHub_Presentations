@@ -201,6 +201,16 @@ Forking a Repo
 </table>
 
 
+Forking a Repo
+========================================================
+
+<table>
+<tr>
+<td><img src="images/Forking2.PNG" width="1800"/></td>
+</tr>
+</table>
+
+
 Pull Requests
 ========================================================
 
